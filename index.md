@@ -39,7 +39,6 @@ For a workshop please delete the following block until the next dashed-line
 
 
 <div class="alert alert-danger">
-</a>
 
 </div>
 
