@@ -39,8 +39,7 @@ For a workshop please delete the following block until the next dashed-line
 
 
 <div class="alert alert-danger">
-Estes es la pagina del módulo correspondiente a genómica del curso de Bionformática en PUCE. La pagina web es
-<a href="https://dechavezv.github.io/2024-03-25-puce">customize</a>
+</a>
 
 </div>
 
